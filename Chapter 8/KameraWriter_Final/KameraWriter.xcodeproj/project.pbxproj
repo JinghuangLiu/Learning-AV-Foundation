@@ -261,12 +261,18 @@
 				CLASSPREFIX = TH;
 				LastUpgradeCheck = 1000;
 				ORGANIZATIONNAME = "TapHarmonic, LLC";
+				TargetAttributes = {
+					072857181975865A00932F8A = {
+						DevelopmentTeam = 97DW55HLWV;
+					};
+				};
 			};
 			buildConfigurationList = 072857141975865A00932F8A /* Build configuration list for PBXProject "KameraWriter" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);
@@ -445,6 +451,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				DEVELOPMENT_TEAM = 97DW55HLWV;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "KameraWriter/KameraWriter-Prefix.pch";
 				INFOPLIST_FILE = "KameraWriter/KameraWriter-Info.plist";
@@ -459,6 +466,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				DEVELOPMENT_TEAM = 97DW55HLWV;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "KameraWriter/KameraWriter-Prefix.pch";
 				INFOPLIST_FILE = "KameraWriter/KameraWriter-Info.plist";
